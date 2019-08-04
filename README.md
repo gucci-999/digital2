@@ -36,3 +36,7 @@ http://labs.eecs.tottori-u.ac.jp/sd/Member/oyamada/OpenCV/html/py_tutorials/py_i
 http://whitecat-student.hatenablog.com/entry/2016/11/09/225631
 
 紹介されているプログラムを引用し、マウスの座標を取得する関数を実装
+
+# 実行の様子
+
+![実行の様子]()
